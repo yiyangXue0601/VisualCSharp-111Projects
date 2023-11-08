@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayEvenFibonacciNumbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read&WriteDataFile", "Read&WriteDataFile\Read&WriteDataFile.csproj", "{81BA17B0-5A31-4C00-935C-B5FC244A868F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackoutGame-10.30.23(ClassLab)", "BlackoutGame-10.30.23(ClassLab)\BlackoutGame-10.30.23(ClassLab).csproj", "{A1553701-9FF0-442E-8444-838092B725D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81BA17B0-5A31-4C00-935C-B5FC244A868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81BA17B0-5A31-4C00-935C-B5FC244A868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81BA17B0-5A31-4C00-935C-B5FC244A868F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1553701-9FF0-442E-8444-838092B725D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1553701-9FF0-442E-8444-838092B725D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1553701-9FF0-442E-8444-838092B725D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1553701-9FF0-442E-8444-838092B725D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
